@@ -11,8 +11,7 @@ package proyectoduo;
 public class HolaDam {
 
     public static void main(String[] args) {
-        System.out.println("Hola Damu");
+        System.out.println("Hola Damui");
         
-        System.out.println("Modifico el archivo");
     }
 }
